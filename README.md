@@ -6,6 +6,7 @@ Using HTTP API(JSON) to show realtime price and compare the price between differ
 ### Requirements:
   1. Install Python >=2.6
   2. OK!
+  
 ### How to use:
   1. Open Windows command
   2. Type python .\okcoin-price-monitor low_price high_price
