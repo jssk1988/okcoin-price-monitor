@@ -5,15 +5,15 @@ Using HTTP API(JSON) to show realtime price and compare the price between differ
 
 Requirements:
   1. Install Python >=2.6
-  OK!
+  2. OK!
 How to use:
   1. Open Windows command
   2. Type python .\okcoin-price-monitor low_price high_price
-  OK!
+  3. OK!
 
 Donations towards further development:
-  LTC: LY5Bbp5PCUy12fu5c3uTgYkoRvEXHAff7A
-  BTC: 
+  1. LTC: LY5Bbp5PCUy12fu5c3uTgYkoRvEXHAff7A
+  2. BTC: 1PdyXgnTQ39zDh6P3zCwGVB8TaGy3MzHSN
   
 Welcome Suggestion：
-  E-mail: jssk1988@gmail.com
+  1. E-mail: jssk1988@gmail.com
